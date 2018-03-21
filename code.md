@@ -3,7 +3,8 @@
 <html>
 <body style="background-color:rgb(160, 220, 185);">
     <head>
-    <style></style>
+        <title>HISTORY IN ST.JOSEPHS </title>
+<style></style>
         
         
 <html><head>
@@ -15,4 +16,4 @@ body {
 </head>
 <body>
 
-<h1>Welcome to History in St. Josephs</h1>
+<h1></h1>
