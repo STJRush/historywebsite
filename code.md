@@ -19,7 +19,7 @@ body {
 
 <h2>In St. Josephs Rush, you will learn about:</h2>
 
-<ul>
+<ol>
   <li>Historians and Archaeologists</li>
   <li>Early Ireland</li>
   <li>Ancient Rome</li>
@@ -33,6 +33,6 @@ body {
   <li>Political Developments in 20th Century Ireland</li>  
   <li>International Relations in the 20th century</li>
   <li>Social History in Ireland</li>    
-</ul>
+</ol>
 
 </html>
