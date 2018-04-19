@@ -9,7 +9,32 @@
 .pagination {
     display: inline-block;
 }       
-    
+ 
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+}
+li a {
+    display: block;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+li a.active {
+}
+li a:hover:not(.active) {
+}
+div.fixed {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 200px;
+    height: 50px;
+    border: 3px solid #73AD21;
+}      
+      
+      
     
   </style>   
 <h1 style="color:Red;">Early Ireland</h1>
@@ -26,6 +51,10 @@
 </div>
     </br>
 
+<div class=fixed>
+    Check out the school's website <a href="http://www.stjosephsrush.ie">http://www.stjosephsrush.ie</a>
+    </div>        
+        
   </body>
   
 </html>
